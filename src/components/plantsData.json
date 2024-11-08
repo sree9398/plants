@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Aloe Vera",
+      "price": 12.99,
+      "image": "https://example.com/images/aloe-vera.jpg",
+      "category": "Succulents"
+    },
+    {
+      "id": 2,
+      "name": "Snake Plant",
+      "price": 15.99,
+      "image": "https://example.com/images/snake-plant.jpg",
+      "category": "Indoor Plants"
+    },
+    {
+      "id": 3,
+      "name": "Fiddle Leaf Fig",
+      "price": 25.99,
+      "image": "https://example.com/images/fiddle-leaf-fig.jpg",
+      "category": "Indoor Plants"
+    },
+    {
+      "id": 4,
+      "name": "Jade Plant",
+      "price": 18.50,
+      "image": "https://example.com/images/jade-plant.jpg",
+      "category": "Succulents"
+    },
+    {
+      "id": 5,
+      "name": "Peace Lily",
+      "price": 20.00,
+      "image": "https://example.com/images/peace-lily.jpg",
+      "category": "Flowering Plants"
+    },
+    {
+      "id": 6,
+      "name": "Monstera",
+      "price": 30.00,
+      "image": "https://example.com/images/monstera.jpg",
+      "category": "Indoor Plants"
+    }
+  ]
+  
