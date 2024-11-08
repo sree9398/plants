@@ -41,7 +41,7 @@ function App() {
     }, []);
 
     return (
-        <div>
+        <div
             <h1>Plant List</h1>
             <div className="plant-cards-container">
                 {data.map((plant) => (
