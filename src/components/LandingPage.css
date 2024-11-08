@@ -1,0 +1,34 @@
+.landing-page {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+  }
+  
+  .landing-page h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .landing-page p {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  
+  .landing-page button {
+    font-size: 20px;
+    padding: 15px 30px;
+    background-color: #ff5722;
+    border-radius: 10px;
+    border: none;
+  }
+  
+  .landing-page button:hover {
+    background-color: #e64a19;
+  }
+  
